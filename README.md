@@ -1,5 +1,5 @@
 # Cache Clear
-
+这是一个copy的项目
 This is a WebView cache plugin for Cordova 5.4.0 supporting Android (>=2.3.3) and iOS(>=6.0)
 It allows the app to use javascript to initiate a cordova webview cache clear
 
